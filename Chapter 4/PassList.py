@@ -10,5 +10,5 @@ for eachLine in sys.stdin:
     if entry:
         fileList.append(entry)
 
-print fileList
+print(fileList)
 
